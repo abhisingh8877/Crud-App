@@ -1,0 +1,22 @@
+{
+  "employee": [
+    {
+      "name": "aman",
+      "email": "amansingh15238@gmail.com",
+      "phone": "775585808",
+      "id": 5
+    },
+    {
+      "name": "Abhishek Kumar",
+      "email": "abhishekkumar15238@gmail.com",
+      "phone": "08877494180",
+      "id": 6
+    },
+    {
+      "name": "ABHISHEK KUMAR",
+      "email": "abhishekkr1.ug21.ec@nitp.ac.in",
+      "phone": "0900696",
+      "id": 7
+    }
+  ]
+}
